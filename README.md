@@ -27,8 +27,8 @@ Savourex is a beautifully designed static website built with **HTML & CSS**, off
 ## 📂 Folder Structure
 ```
 📦 Savourex  
- ┣ 📂 assets        # Images, fonts, icons  
- ┣ 📂 css           # Stylesheets  
+ ┣ 📂 images        # Images, fonts, icons  
+ ┣ 📜 css           # Stylesheet  
  ┣ 📜 index.html    # Main HTML file  
  ┣ 📜 README.md     # Project documentation  
 ```
